@@ -4,6 +4,6 @@ FastCGI low-level API and WSGI-Style API for SBCL
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/KDr2/sb-fastcgi.git |
-| commit  | 5698154                                    |
+| commit  | 5e06e23                                    |
 | systems | sb-fastcgi                                 |
 |---------+--------------------------------------------|
